@@ -43,10 +43,9 @@
     dur: 1000; 
     to:1 1 1"
   />
-  <a-image
+  <a-video
     color="#FFF"
     alt="loading.."
-    material="shader:gif"
     src="#colpo-gif"
     width="15"
     height="15"
@@ -56,7 +55,7 @@
     startEvents: fusing; 
     easing: easeInCubic;
     dur: 1000; 
-    to:12 -1.5 24"
+    to:12 -1.5 27"
     animation__mouseleave="
     property:position;
     startEvents:mouseleave;
@@ -141,10 +140,10 @@
   to:1 1 1"
 />
 
-  <a-image
+  <a-video
   color="#FFF"
-  alt="loading.."
-  material="shader:gif"
+
+
   src="#bowel-gif"
   width="15"
   height="15"

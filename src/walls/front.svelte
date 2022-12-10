@@ -36,7 +36,7 @@
                       dur: 1000; 
                       to: -7 0 0.3"
   >
-    <a-image src="#services-image" width="60" height="28" />
+    <a-image src="#services-image" width="60" height="30" />
 
 
   </a-entity>

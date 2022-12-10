@@ -13,7 +13,7 @@
     height="15"
     depth="0.1"
     position="-34 15.5 0.85"
-    material="shader:gif"
+   
     animation__fusing="property: position; 
       startEvents: fusing; 
       easing: easeInCubic;
@@ -108,19 +108,18 @@
     to:1 1 1"
   />
 
-  <a-image
+  <a-video
     alt=""
     src="#jananya-gif"
     width="15"
     height="15"
     depth="0.1"
     position="-15.5 -1.5 0.85"
-    material="shader:gif"
     animation__fusing="property: position; 
       startEvents: fusing; 
       easing: easeInCubic;
       dur: 1000; 
-      to:-15 -1.5 15"
+      to:-15 -1.5 18"
     animation__mouseleave="
       property:position;
       startEvents:mouseleave;
@@ -140,19 +139,19 @@
     to:1 1 1"
   />
 
-  <a-image
+  <a-video
     alt=""
     src="#nebiro-gif"
     width="15"
     height="15"
     depth="0.1"
     position="3 -1.5 0.85"
-    material="shader:gif"
+ 
     animation__fusing="property: position; 
       startEvents: fusing; 
       easing: easeInCubic;
       dur: 1000; 
-      to:-15 -1.5 15"
+      to:-15 -1.5 18"
     animation__mouseleave="
       property:position;
       startEvents:mouseleave;
@@ -207,7 +206,7 @@
   <!-- Right image -->
   <a-image
     alt=""
-    src="#oral-gif"
+    src="#glu-gif"
     width="15"
     height="15"
     depth="0.1"
