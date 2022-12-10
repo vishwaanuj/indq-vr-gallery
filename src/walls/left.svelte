@@ -111,7 +111,7 @@
   <a-image
   alt=""
   material="shader:gif"
-  src="#urowear-gif"
+  src="#eye-gif"
   width="15"
   height="15"
   depth="0.1"
