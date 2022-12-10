@@ -18,10 +18,10 @@ color="#fff">
 
 <a-image 
 src="#history"
-width="25"
+width="35"
 height="18"
 depth="0.1"
-position="6.75 15.5 0.85"
+position="9.75 15.5 0.85"
   animation__fusing="property: position; 
     startEvents: fusing; 
     easing: easeInCubic;
@@ -32,7 +32,7 @@ position="6.75 15.5 0.85"
     startEvents:mouseleave;
     dir:alternate;
     dur: 1000; 
-    to:6.75 15.5 0.85"
+    to:9.75 15.5 0.85"
   animation__fusing__2="property: scale; 
 startEvents: fusing; 
 easing: easeInCubic;
