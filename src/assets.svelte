@@ -21,5 +21,14 @@
   <img id="eye-gif" alt="" src="portfolio/eye.gif" />
   <img id="cpr-gif" alt="" src="portfolio/cpr.gif" />
   <img id="glu-gif" alt="" src="portfolio/glu.gif" />
+
+  <!-- right wall images -->
+  <img id="osmf-gif" alt="" src="portfolio/osmf.gif" />
+  <img id="nebiro-gif" alt="" src="portfolio/nebiro.gif" />
+  <img id="jananya-gif" alt="" src="portfolio/Jananya.gif" />
+  <img id="arm-gif" alt="" src="portfolio/arm.gif" />
+  <img id="organ-gif" alt="" src="portfolio/organ.gif" />
+  <img id="neuro-gif" alt="" src="portfolio/neuro.gif" />
+  <img id="heart-gif" alt="" src="portfolio/heart.gif" />
   <!-- Discarded -->
 </a-assets>

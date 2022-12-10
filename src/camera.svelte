@@ -1,4 +1,4 @@
-<a-entity position="-2 3 25">
+<a-entity position="-6 3 25">
   <a-entity camera look-controls wasd-controls>
     <a-entity position="0 0 -3"
               geometry="primitive: ring; radiusInner: 0.04; radiusOuter: 0.06;"
