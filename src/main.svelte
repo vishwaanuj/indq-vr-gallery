@@ -17,7 +17,6 @@
     flag.subscribe((value) => {
       FLAG = value;
     });
-  
   });
 
   function setFlag() {
@@ -31,6 +30,7 @@
       init: function () {
         this.el.addEventListener("timeout", () => {
           setFlag();
+          alert()
         });
       },
     });
@@ -58,7 +58,6 @@
     <!-- svelte-ignore a11y-media-has-caption -->
     <video
       id="colpo-gif"
-      timeout="10000"
       type="video/mp4"
       autoplay
       loop="true"
@@ -68,7 +67,6 @@
     <!-- svelte-ignore a11y-media-has-caption -->
     <video
       id="jananya-gif"
-      timeout="10000"
       type="video/mp4"
       autoplay
       loop="true"
@@ -77,7 +75,6 @@
     <!-- svelte-ignore a11y-media-has-caption -->
     <video
       id="bowel-gif"
-      timeout="10000"
       type="video/mp4"
       autoplay
       loop="true"
@@ -85,12 +82,7 @@
     />
     <img id="oral-gif" alt="" src="portfolio/oral.gif" />
 
-    <img
-      id="urowear-gif"
-      timeout="10000"
-      alt=""
-      src="portfolio/urowear gif.gif"
-    />
+    <img id="urowear-gif" alt="" src="portfolio/urowear gif.gif" />
     <img id="kidney-gif" alt="" src="portfolio/kidney function test.gif" />
     <img id="olemus-gif" alt="" src="portfolio/olemus gif.gif" />
     <img id="eye-gif" alt="" src="portfolio/eye.gif" />
@@ -103,7 +95,6 @@
     <video
       id="nebiro-gif"
       type="video/mp4"
-      timeout="10000"
       autoplay
       loop="true"
       src="portfolio/nebiro.mp4"
