@@ -235,11 +235,5 @@ dur: 1000;
 to:1 1 1"
   />
 
-  <a-text
-    color="gray"
-    position="0 -12 5"
-    width="40"
-    height="20"
-    value="Shaping Possibilities"
-  />
+
 </a-box>

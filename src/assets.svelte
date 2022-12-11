@@ -36,9 +36,12 @@
   <!-- svelte-ignore a11y-media-has-caption -->
   <video id="nebiro-gif" type="video/mp4"  autoplay loop="true" src="portfolio/nebiro.mp4" />
   <img id="arm-gif" alt="" src="portfolio/arm.gif" />
+  <img id="bulb-gif" alt="" src="portfolio/bulb_idea.gif" />
   <img id="organ-gif" alt="" src="portfolio/organ.gif" />
   <img id="neuro-gif" alt="" src="portfolio/neuro.gif" />
   <img id="heart-gif" alt="" src="portfolio/heart.gif" />
+  <img id="amtz" alt="" src="portfolio/amtz.jpg" />
+  <img id="medivalley" alt="" src="portfolio/medivalley.png" />
 
  <!--back wall-->
   <img id="mouth-gif" alt="" src="portfolio/mouth.gif" />

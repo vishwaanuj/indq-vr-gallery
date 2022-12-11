@@ -3,7 +3,13 @@
 
 <a-box width="102.5" height="85" depth="0.25" position="0 0 -15" color="#fff">
   <!-- Middle image: pancakes -->
-  <a-entity position="-4 28 0.3">
+
+
+  <a-entity position="-4 35 0.3">
+<a-image width="15" height="5" position="-30 0 0" src="#amtz"> </a-image>
+<a-image width="15" height="5" position="25 0 0" src="#medivalley"> </a-image>
+  </a-entity>
+  <a-entity position="-6 28 0.3">
     <a-image
       alt=""
       src="#logo-image"
