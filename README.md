@@ -2,7 +2,7 @@
 
 ## steps 
 ``` sh
-npm install -g local-web-server
+npm i local-web-server
 
 cd public 
 
