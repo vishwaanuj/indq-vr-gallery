@@ -51,8 +51,10 @@
       autoplay
       loop="true"
       alt=""
+      meta
       src="portfolio/intro_New.mp4"
       type="video/mp4"
+      preload="auto"
     />
 
     <!-- svelte-ignore a11y-media-has-caption -->
@@ -62,6 +64,7 @@
       autoplay
       loop="true"
       src="portfolio/colpo.mp4"
+      preload="auto"
     />
 
     <!-- svelte-ignore a11y-media-has-caption -->
@@ -71,6 +74,7 @@
       autoplay
       loop="true"
       src="portfolio/jananya.mp4"
+      preload="auto"
     />
     <!-- svelte-ignore a11y-media-has-caption -->
     <video
@@ -78,6 +82,7 @@
       type="video/mp4"
       autoplay
       loop="true"
+      preload="auto"
       src="portfolio/bowel retractor.mp4"
     />
     <img id="oral-gif" alt="" src="portfolio/oral.gif" />
