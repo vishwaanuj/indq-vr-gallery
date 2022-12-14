@@ -14,10 +14,7 @@ depth="0.25"
 position="0 0 95"
 rotation="0 180 0"
 color="#fff">
-<a-image src="#bulb-gif" 
-material="shader:gif"
- width="15" height="15" 
- position="-5.75 30.5 0.85"/>
+
 
 <a-image 
 src="#history"
