@@ -2,7 +2,7 @@
 
 ## steps 
 ``` sh
-npm i local-web-server
+npm i -g local-web-server
 
 cd public 
 
