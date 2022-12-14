@@ -1,7 +1,7 @@
 # indq vr gallery
 
 ## steps 
-'''
+''' sh
 npm install -g local-web-server
 
 cd public 
