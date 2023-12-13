@@ -19,9 +19,9 @@
     <!-- White plane as a background for the text -->
 
     <a-entity
-      gltf-model="./GLB_MODELS/ORCHEST.glb"
-      rotate="0 -10 0"
-      scale=".3 .3 .3"
+      gltf-model="./GLB_MODELS/THE BEAT.glb"
+      rotate="0 0 0"
+      scale="20 10 20"
     >
     </a-entity>
   </a-marker>
@@ -30,9 +30,9 @@
     <!-- White plane as a background for the text -->
 
     <a-entity
-      gltf-model="./GLB_MODELS/JANANYA.glb"
+      gltf-model="./GLB_MODELS/ORCHEST.glb"
       rotate="0 -10 0"
-      scale="30 30 30"
+      scale="35 20 30"
     >
     </a-entity>
   </a-marker>
@@ -43,11 +43,63 @@
     <a-entity
       gltf-model="./GLB_MODELS/bed.glb"
       rotate="0 -10 0"
-      scale="30 30 30"
+      scale="1 .5  1"
     >
     </a-entity>
   </a-marker>
 
+  <a-marker type="pattern" url="./MARKERS/3.patt">
+    <!-- White plane as a background for the text -->
+
+    <a-entity
+      gltf-model="./GLB_MODELS/IIT PAPER.glb"
+      rotate="0 -10 0"
+      scale="20 10 20"
+    >
+    </a-entity>
+  </a-marker>
+
+  <a-marker type="pattern" url="./MARKERS/4.patt">
+    <!-- White plane as a background for the text -->
+
+    <a-entity
+      gltf-model="./GLB_MODELS/IIT LIQUID.glb"
+      rotate="0 -10 0"
+      scale="20 10 20"
+    >
+    </a-entity>
+  </a-marker>
+
+  <a-marker type="pattern" url="./MARKERS/5.patt">
+    <!-- White plane as a background for the text -->
+
+    <a-entity
+      gltf-model="./GLB_MODELS/OLEMUS.glb"
+      rotate="0 -10 0"
+      scale="10 5 10"
+    >
+    </a-entity>
+  </a-marker>
+  <a-marker type="pattern" url="./MARKERS/6.patt">
+    <!-- White plane as a background for the text -->
+
+    <a-entity
+      gltf-model="./GLB_MODELS/thyrolemus.glb"
+      rotate="0 -10 0"
+      scale="1 .5 1"
+    >
+    </a-entity>
+  </a-marker>
+  <a-marker type="pattern" url="./MARKERS/7.patt">
+    <!-- White plane as a background for the text -->
+
+    <a-entity
+      gltf-model="./GLB_MODELS/NEBIRO.glb"
+      rotate="0 -10 0"
+      scale="10 5 10"
+    >
+    </a-entity>
+  </a-marker>
   <a-entity camera></a-entity>
 </a-scene>
 
