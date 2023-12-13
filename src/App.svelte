@@ -11,7 +11,7 @@
   renderer="logarithmicDepthBuffer: true;"
   arjs="debugUIEnabled: false;sourceWidth:1280; sourceHeight:960; displayWidth: 1280; displayHeight: 960;"
 >
-  <a-assets timeout="7000">
+  <a-assets timeout="20000">
     <a-asset-item id="dopplerModel" src="./doppler.gltf"></a-asset-item>
   </a-assets>
 
@@ -19,9 +19,9 @@
     <!-- White plane as a background for the text -->
 
     <a-entity
-      gltf-model="./GLB_MODELS/ORCHEST.glb"
+      gltf-model="./orchest.glb"
       rotate="0 -10 0"
-      scale="20 20 20"
+      scale=".3 .3 .3"
     >
     </a-entity>
   </a-marker>
@@ -30,9 +30,9 @@
     <!-- White plane as a background for the text -->
 
     <a-entity
-      gltf-model="./GLB_MODELS/bed.glb"
+      gltf-model="./GLB_MODELS/JANANYA.glb"
       rotate="0 -10 0"
-      scale="1 1 1"
+      scale="30 30 30"
     >
     </a-entity>
   </a-marker>
